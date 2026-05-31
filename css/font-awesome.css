@@ -554,7 +554,7 @@
 .fa-bar-chart:before {
   content: "\f080";
 }
-.fa-twitter-square:before {
+.fa-tiktok-square:before {
   content: "\f081";
 }
 .fa-facebook-square:before {
@@ -588,7 +588,7 @@
 .fa-sign-out:before {
   content: "\f08b";
 }
-.fa-linkedin-square:before {
+.fa-whatsapp-square:before {
   content: "\f08c";
 }
 .fa-thumb-tack:before {
@@ -624,7 +624,7 @@
 .fa-phone-square:before {
   content: "\f098";
 }
-.fa-twitter:before {
+.fa-tiktok:before {
   content: "\f099";
 }
 .fa-facebook-f:before,
@@ -801,7 +801,7 @@
 .fa-envelope:before {
   content: "\f0e0";
 }
-.fa-linkedin:before {
+.fa-whatsapp:before {
   content: "\f0e1";
 }
 .fa-rotate-left:before,
